@@ -1,7 +1,7 @@
-## FlipViewPager
+# FlipViewPager
 
-![screenshot](screenshot.png){:style="width:50px;"}
+![screenshot](screenshot.png)
 
 
-#縦向き捲りバージョンにしてみました\n
-#サンプルはfork元さんのをお使いください
+縦向き捲りバージョンにしてみました
+サンプルはfork元さんのをお使いください
